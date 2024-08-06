@@ -4,7 +4,7 @@ I am a motivated and skilled computer science student with a strong foundation i
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shryxs.09) 
-[![Linkedln](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.linkedin.com/in/shreyas9999/)
+[![Linkedln](https://img.shields.io/badge/Linkedln-%23E4405F.svg?logo=Linkedln&logoColor=white)](https://www.linkedin.com/in/shreyas9999/)
 
 
 # 💻 Tech Stack:
