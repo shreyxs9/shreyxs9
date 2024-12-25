@@ -17,7 +17,7 @@ I am a motivated and skilled computer science student with a strong foundation i
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Profile Views](https://w7.pngwing.com/pngs/637/646/png-transparent-philippines-sk-hd-logo.png)  
+![Profile Views]("hey)  
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
