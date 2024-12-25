@@ -17,7 +17,7 @@ I am a motivated and skilled computer science student with a strong foundation i
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Profile Views]("hey)  
+![Profile Views](https://lh3.googleusercontent.com/ogw/AF2bZyjA8MBYjLEBkuxPV6jqk9cEFxbr81VptSdjp1JhoQpSkQ=s32-c-mo)  
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
